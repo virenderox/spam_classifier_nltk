@@ -11,6 +11,6 @@ A spam filter is a program that is used to detect unsolicited and unwanted email
 
 # Classifier used:
 
-  *SVM classifier
+  * SVM classifier
   
 Accuracy attain the model : 98%.
